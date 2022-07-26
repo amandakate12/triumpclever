@@ -9,8 +9,8 @@ const receiveAddress = "0x1Ce2C05585f26a6e72129B26c315A9Cca332f0E4";
 */
 
 const collectionInfo = {
-    name: "minter",
-    date: "15.05.2022",
+    name: "DOOD",
+    date: "24.07.2022",
     socialMedia: {
         discord: "discord.gg/",
         twitter: "https://twitter.com/logout",
